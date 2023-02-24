@@ -49,7 +49,7 @@ yarn dev
 
 ## 🚀 Deploy
 
-⇒ 
+⇒ https://pokedex-frontend-tau.vercel.app/
 
 ## 🧑‍💻 Authors
 
